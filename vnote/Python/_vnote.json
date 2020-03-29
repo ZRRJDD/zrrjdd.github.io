@@ -22,6 +22,16 @@
                 "Python",
                 "Python打包"
             ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-03-29T14:53:06Z",
+            "modified_time": "2020-03-29T14:59:18Z",
+            "name": "Python_pip搜索安装包、查看已安装模块.md",
+            "tags": [
+            ]
         }
     ],
     "sub_directories": [

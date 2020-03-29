@@ -1,0 +1,43 @@
+{
+    "navigation":
+    [
+        {
+            "text": "Home",
+            "target": "index.md",
+            "toc": false
+        },
+        {
+            "text": "Java",
+            "target": "vnote/Java/_vnote.json",
+            "navi": true
+        },
+        {
+            "text": "Python",
+            "target": "vnote/Python/_vnote.json",
+            "navi": true
+        },
+        {
+            "text": "Jupyter",
+            "target": "vnote/Jupyter/_vnote.json",
+            "navi": true
+        },
+        {
+            "text": "前端",
+            "target": "vnote/前端/_vnote.json",
+            "navi": true
+        },
+        {
+            "text": "工具",
+            "target": "vnote/工具/_vnote.json",
+            "navi": true
+        }
+    ],
+    "actions":
+    [
+        {
+            "text": "Github",
+            "icon": "css/github.svg",
+            "target": "https://github.com/ZRRJDD"
+        }
+    ]
+}

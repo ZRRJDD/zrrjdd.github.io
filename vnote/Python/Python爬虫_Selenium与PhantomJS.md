@@ -1,6 +1,6 @@
 # Python爬虫_Selenium与PhantomJS
 
-[原文链接](https://www.cnblogs.com/miqi1992/p/8093958.html)
+
 
 ## Selenium
 
@@ -414,3 +414,8 @@ driver.get("http://www.xxxxx.com/loading")
 myDynamicElement = driver.find_element_by_id("myDynamicElement")
 ```
 如果不设置，默认等待时间为0。
+
+
+## 参考链接
+
+- [参考链接](https://www.cnblogs.com/miqi1992/p/8093958.html)

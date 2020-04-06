@@ -9,6 +9,7 @@
             "modified_time": "2020-03-29T13:11:09Z",
             "name": "Python爬虫_Selenium与PhantomJS.md",
             "tags": [
+                "爬虫"
             ]
         },
         {
@@ -31,6 +32,7 @@
             "modified_time": "2020-03-29T14:59:18Z",
             "name": "Python_pip搜索安装包、查看已安装模块.md",
             "tags": [
+                "pip"
             ]
         }
     ],

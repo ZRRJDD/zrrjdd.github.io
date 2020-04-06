@@ -20,11 +20,21 @@
         },
         {
             "name": "前端"
+        },
+        {
+            "name": "代整理后发布"
         }
     ],
     "tags": [
         "Python",
-        "Python打包"
+        "Python打包",
+        "pip",
+        "爬虫",
+        "工具",
+        "Vnote",
+        "Github",
+        "Github Pages",
+        "VNote"
     ],
     "version": "1"
 }
